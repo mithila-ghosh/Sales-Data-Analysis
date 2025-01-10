@@ -15,7 +15,3 @@ This is an Excel project that showcases advanced data analysis and visualization
 - **Microsoft Excel:** Utilized for data analysis, formula implementation, and visualization.
 - **Excel Functions:** `IF`, `AND`, `IFERROR`, `VLOOKUP`, `INDEX-MATCH`, `FILTER`
 - **Data Visualization Tools:** Line Charts, Dropdown Menus
-## Screenshots
-
-![Sales Trend Chart](screenshots/pivot.png)
-![Dropdown Menu](screenshots/dropdown-menu.png)
