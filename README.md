@@ -17,5 +17,5 @@ This is an Excel project that showcases advanced data analysis and visualization
 - **Data Visualization Tools:** Line Charts, Dropdown Menus
 ## Screenshots
 
-![Sales Trend Chart](screenshots/sales-trend-chart.png)
+![Sales Trend Chart](screenshots/pivot.png)
 ![Dropdown Menu](screenshots/dropdown-menu.png)
